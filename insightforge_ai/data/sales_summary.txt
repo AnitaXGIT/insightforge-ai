@@ -1,0 +1,20 @@
+
+Advanced Sales Data Summary:
+
+– Total sales : $1,383,220.00
+– Average / Median sale : $553.29 / $552.50
+– (Sales) : $260.10
+
+Time window
+  – Best month : 2028-04  Worst month : 2028-11
+
+Product
+  – Highest revenue : Widget A  Most frequently sold : Widget A
+
+Regions
+  – Best : West  Worst : East
+
+Customers
+  – Avg satisfaction : 3.03 (±1.16)
+  – Best age group : 18-25
+  – Avg sale by gender : Male $547.56 / Female $558.96

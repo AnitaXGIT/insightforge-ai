@@ -1,0 +1,81 @@
+{
+  "business_intelligence_qa_pairs": [
+    {
+      "question": "What are our total sales figures?",
+      "reference_answer": "Based on the sales data, total sales are $125,000 with strong performance indicators.",
+      "category": "sales_analysis",
+      "difficulty": "easy",
+      "expected_sources": [
+        "sales_data"
+      ]
+    },
+    {
+      "question": "Which products are performing best and why?",
+      "reference_answer": "Product C leads with $50,000 revenue (40% of total), followed by Product A at $45,000 (36%). Product C's success is attributed to strong market demand and effective positioning.",
+      "category": "product_analysis",
+      "difficulty": "medium",
+      "expected_sources": [
+        "sales_data",
+        "product_analysis"
+      ]
+    },
+    {
+      "question": "How do regional sales compare across different areas?",
+      "reference_answer": "West region dominates with $55,000 (44% of total sales), while East region shows $35,000 (28%) and needs strategic attention for growth.",
+      "category": "regional_analysis",
+      "difficulty": "medium",
+      "expected_sources": [
+        "sales_data"
+      ]
+    },
+    {
+      "question": "What customer demographics drive the highest sales?",
+      "reference_answer": "The 26-35 age group generates the highest average sales, with 65% female customer base showing strong purchasing power and brand loyalty.",
+      "category": "customer_segmentation",
+      "difficulty": "medium",
+      "expected_sources": [
+        "sales_data",
+        "customer_analysis"
+      ]
+    },
+    {
+      "question": "Based on our performance data, what strategic recommendations would you make?",
+      "reference_answer": "Focus marketing efforts on West region success factors, develop East region strategies, prioritize Product C expansion, and target 26-35 demographic with tailored campaigns.",
+      "category": "strategic_planning",
+      "difficulty": "hard",
+      "expected_sources": [
+        "sales_data",
+        "strategic_documents"
+      ]
+    },
+    {
+      "question": "How can AI business model innovations improve our current performance?",
+      "reference_answer": "AI innovations can enhance predictive analytics for demand forecasting, automate customer segmentation, optimize regional resource allocation, and enable real-time performance monitoring.",
+      "category": "innovation_analysis",
+      "difficulty": "hard",
+      "expected_sources": [
+        "AI_business_innovation.pdf",
+        "sales_data"
+      ]
+    },
+    {
+      "question": "What trends do you see in our monthly sales performance?",
+      "reference_answer": "Sales show upward trajectory with Q3 being the strongest quarter, indicating seasonal demand patterns and successful product positioning strategies.",
+      "category": "trend_analysis",
+      "difficulty": "medium",
+      "expected_sources": [
+        "sales_data"
+      ]
+    },
+    {
+      "question": "Compare our top products across different customer segments.",
+      "reference_answer": "Product C performs best across all segments, with particularly strong adoption in the 26-35 age group. Product A shows regional preferences in West markets.",
+      "category": "comparative_analysis",
+      "difficulty": "hard",
+      "expected_sources": [
+        "sales_data",
+        "customer_analysis"
+      ]
+    }
+  ]
+}
